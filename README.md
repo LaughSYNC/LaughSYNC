@@ -1,4 +1,1 @@
-[## 🏆 GitHub Trophies
-
-[![trophy]https://trophygithubreadmelang.cybee.dpdns.org/?username=USERNAME)
-](https://trophygithubreadmelang.cybee.dpdns.org/?username=LaughSYNC&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LaughSYNCtheme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
