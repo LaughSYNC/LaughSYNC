@@ -4,6 +4,12 @@
   </a>
 </h1>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=LaughSYNC&theme=tokyonight&margin-w=15&margin-h=15" alt="github profile trophy" />
+  </a>
+</p>
+
 ---
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -30,13 +36,9 @@
 
 ---
 
-<h2 align="center">👾 Contribution History</h2>
+<h2 align="center">👾 Pac-Man Contribution Maze</h2>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaughSYNC/LaughSYNC/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaughSYNC/LaughSYNC/output/github-snake.svg">
-    <img alt="github snake" src="https://raw.githubusercontent.com/LaughSYNC/LaughSYNC/output/github-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/LaughSYNC/LaughSYNC/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
 </p>
 
 ---
