@@ -20,6 +20,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           games: 'pacman'
+          gameTheme: 'github-dark'
 
       - name: Generate trophy card
         uses: soulteary/github-profile-trophy-action@v1.0.0
