@@ -5,9 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LaughSYNC&theme=tokyonight&margin-w=15&margin-h=15" alt="github profile trophy" />
-  </a>
+  <img src="https://raw.githubusercontent.com/LaughSYNC/LaughSYNC/output/trophy.svg" alt="github profile trophy" />
 </p>
 
 ---
