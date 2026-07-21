@@ -4,9 +4,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LaughSYNC/LaughSYNC/output/trophy.svg" alt="github profile trophy" />
-</p>
 
 ---
 
