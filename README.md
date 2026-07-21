@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">
-  <a href="https://github.com/RajPatel7115">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=bb9af3&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Raj+Patel;Python+%26+Django+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <a href="https://github.com/LaughSYNC">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=bb9af3&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I%27m+Raj+Patel;Python+%26+Django+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -25,8 +25,8 @@
     </td>
     <td valign="top" width="45%" align="center">
       <h2>🔥 GitHub Streak</h2>
-      <a href="https://github.com/RajPatel7115">
-        <img src="https://streak-stats.demolab.com/?user=RajPatel7115&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="90%"/>
+      <a href="https://github.com/LaughSYNC">
+        <img src="https://streak-stats.demolab.com?user=LaughSYNC&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="90%"/>
       </a>
     </td>
   </tr>
@@ -74,14 +74,14 @@
   <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" valign="middle">
-        <a href="https://github.com/RajPatel7115">
-          <img src="https://github-readme-stats.shion.dev/api?username=RajPatel7115&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Raj's GitHub Stats" height="195"/>
+        <a href="https://github.com/LaughSYNC">
+          <img src="https://github-readme-stats.shion.dev/api?username=LaughSYNC&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Raj's GitHub Stats" height="195"/>
         </a>
       </td>
       <td width="15"></td>
       <td align="center" valign="middle">
-        <a href="https://github.com/RajPatel7115">
-          <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RajPatel7115&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Raj's Top Languages" height="195"/>
+        <a href="https://github.com/LaughSYNC">
+          <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LaughSYNC&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Raj's Top Languages" height="195"/>
         </a>
       </td>
     </tr>
@@ -96,11 +96,11 @@
   <a href="https://discord.gg/unknownn_404_">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://github.com/RajPatel7115">
+  <a href="https://github.com/LaughSYNC">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RajPatel7115&color=7aa2f7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=LaughSYNC&color=7aa2f7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
