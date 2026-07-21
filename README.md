@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="github_profile_banner.png" alt="Raj Patel Banner" width="100%">
-</p>
-
 <h1 align="center">
   <a href="https://github.com/LaughSYNC">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=bb9af3&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I%27m+Raj+Patel;Python+%26+Django+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=28&pause=1000&color=bb9af3&center=true&vCenter=true&width=600&height=40&lines=Hi+%F0%9F%91%8B%2C+I%27m+Raj+Patel;Python+%26+Django+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -36,17 +32,17 @@
 
 ## 💻 Tech Stack
 
-### 🚀 Languages & Core
+### ⚡ Core Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/django%20rest-%23ff1709.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
+</p>
+
+### 🚀 Other Languages & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-</p>
-
-### 🌐 Web Development & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/django%20rest-%23ff1709.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
