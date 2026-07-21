@@ -36,7 +36,11 @@
 
 <h2 align="center">👾 Pac-Man Contribution Maze</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LaughSYNC/LaughSYNC/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaughSYNC/LaughSYNC/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaughSYNC/LaughSYNC/output/pacman-contribution-graph-light.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/LaughSYNC/LaughSYNC/output/pacman-contribution-graph-dark.svg">
+  </picture>
 </p>
 
 ---
